@@ -1,5 +1,7 @@
 # Devops-lab
 
+Project also a wiki for better readability https://github.com/rajans027/Devops-lab
+
 Process followed
 Started with starting two EC2 Ubuntu instances on AWS. ( Master and test server). I am communicating with these nodes via SSH
 
